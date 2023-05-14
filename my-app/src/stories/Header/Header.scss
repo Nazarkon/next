@@ -1,0 +1,33 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+    .header-title{
+        padding-left: 90px;
+        color: #F65261;
+        .header-title-first{
+            font-weight: 900;
+
+        }
+    }
+    .header-icon{
+        color: #F65261;
+        margin-right: 20px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+    .header-button{
+        cursor: pointer;
+        background: rgba(96, 96, 96, 0.68);
+        border-radius: 4px;
+        border: none;
+        color: #F65261;
+        font-size: 15px;
+        font-weight: 600;
+        padding: 11px 18px;
+        text-transform: uppercase;
+    }
+}

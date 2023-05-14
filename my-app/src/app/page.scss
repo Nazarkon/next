@@ -1,0 +1,40 @@
+.movie-page-container{
+    .movie-page-search-image-background {
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        padding: 145px 120px;
+        background-image: url('../stories/assets/images/background.png');
+        background-size: cover;
+    }
+    .movie-page-search-color-background {
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        padding: 145px 120px;
+        background-color: #232323;
+        margin-bottom: 10px;
+    }
+    .movie-page-film-filter{
+        background-color: #232323;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 59px 0 59px;
+    }
+    .movie-page-film-counter{
+        background-color: #232323;
+        padding-left: 32px;
+        padding-bottom: 20px;
+        color: white;
+        font-size: 20px;
+    }
+    .movie-page-film-list{
+        background-color: #232323;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 50px 0px;
+        padding-bottom: 80px;
+    }
+}

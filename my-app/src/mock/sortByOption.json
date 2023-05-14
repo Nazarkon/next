@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "label": "RELEASE DATE",
+      "value": "release_date"
+    },
+    {
+      "id": 2,
+      "label": "TITLE",
+      "value": "title"
+    }
+  ]

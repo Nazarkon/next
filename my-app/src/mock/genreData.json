@@ -1,0 +1,34 @@
+[
+  {
+    "id": "all",
+    "name": "all"
+  },
+  {
+    "id": "fantasy",
+    "name": "fantasy"
+  },
+  {
+    "id": "adventure",
+    "name": "adventure"
+  },
+  {
+    "id": "romance",
+    "name": "romance"
+  },
+  {
+    "id": "science fiction",
+    "name": "science Fiction"
+  },
+  {
+    "id": "documentary",
+    "name": "documentary"
+  },
+  {
+    "id": "comedy",
+    "name": "comedy"
+  },
+  {
+    "id": "action",
+    "name": "action"
+  }
+]

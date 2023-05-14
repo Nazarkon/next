@@ -1,0 +1,34 @@
+[
+  {
+    "id": "default",
+    "name": "Select Genre"
+  },
+  {
+    "id": "fantasy",
+    "name": "Fantasy"
+  },
+  {
+    "id": "adventure",
+    "name": "Adventure"
+  },
+  {
+    "id": "romance",
+    "name": "Romance"
+  },
+  {
+    "id": "science fiction",
+    "name": "Science Fiction"
+  },
+  {
+    "id": "documentary",
+    "name": "Documentary"
+  },
+  {
+    "id": "comedy",
+    "name": "Comedy"
+  },
+  {
+    "id": "action",
+    "name": "Action"
+  }
+]

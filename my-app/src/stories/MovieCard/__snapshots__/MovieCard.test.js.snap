@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieCard component matches snapshot 1`] = `
+<div>
+  <div
+    class="movie-card-container"
+  >
+    <a
+      href="/movie-details/123"
+    >
+      <div
+        class="movie-card-container-image"
+      >
+        <img
+          alt="film poster"
+          class="movie-card-image"
+          src="Bitmap.png"
+        />
+      </div>
+    </a>
+    <div
+      class="movie-card-container-title"
+    >
+      <h4
+        class="movie-card-title"
+      >
+        Pulp Fiction
+      </h4>
+      <p
+        class="movie-card-year"
+      >
+        2003
+      </p>
+    </div>
+    <span
+      class="movie-card-genres"
+    >
+      Action&Adventure
+    </span>
+  </div>
+</div>
+`;

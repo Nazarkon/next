@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectFilter component Matches snapshot 1`] = `
+<div>
+  <label
+    class="select-label"
+  >
+    <span
+      class="select-label-text"
+    >
+      SORT BY:
+    </span>
+    <select
+      class="select-component"
+    >
+      <option
+        class="select-option"
+        value="date"
+      >
+        RELEASE DATE
+      </option>
+      <option
+        class="select-option"
+        value="title"
+      >
+        TITLE
+      </option>
+    </select>
+  </label>
+</div>
+`;
